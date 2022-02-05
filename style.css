@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body {
+    background-image: url(/img/fond.png);
+    margin: 0px;
+}
+
+nav {
+    background-color: #34b1b2;
+    margin-top: 40px;
+    border: #179191 solid;
+    font-family: 'Slabo';
+    text-align: center;
+    padding: 3px;
+}
+
+.logo {
+    margin-left: 50px;
+}
+
+nav ul li {
+    display: inline;
+    padding: 30px;
+    color: white;
+    text-align: center;
+}
+
+.intro {
+    font-size: 2.5em;
+    font-family: 'slabo';
+}
+
+.container {
+    text-align: center;
+    margin-top: 40px;
+    color: #444a54;
+}
+
+.welcome {
+    font-family: 'Open sans';
+    margin-left: 650px;
+    margin-right: 650px;
+}
+
+.special {
+    color: #444a54;
+    background-color: #b6dedc;
+    width: 800px;
+    height: 1100px;
+    margin-left: 250px;
+    margin-bottom: auto;
+    padding: 20px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.auj {
+    font-size: 3.5em;
+    font-family: 'Slabo';
+    color: #34b1b2;
+    padding: 40px;
+    margin-left: 150px;
+}
+
+.para {
+    color: #444a54;
+    padding: 10px;
+}
+
+span {
+    color: #444a54;
+}
+
+.reciepe {
+    border-radius: 50%;
+    float: left;
+    font-size: 40px;
+}
+
+i {
+    color: #34b1b2;
+    align-items: center;
+}
+
+button {
+    background-color: #34b1b2;
+    border: #34b1b2;
+    padding: 10px;
+    color: white;
+    margin-left: 300px;
+}
+
+h5 {
+    font-size: 1.8em;
+}
+
+.news {
+    width: 200px;
+    height: 1000px;
+    background-color: #34b1b2;
+    position: absolute;
+    left: 1100px;
+    top: 395px;
+    padding: 20px;
+    color: white;
+    font-family: 'open sans';
+    border: #179191 solid;
+}
+
+h6 {
+    font-size: 1.4em;
+}
+
+main {
+    position: relative;
+}
+
+.academy {
+    width: 50px;
+    height: 50px;
+    margin-left: 100px;
+}
+
+footer {
+    text-align: center;
+    font-size: 1em;
+    margin-top: 60px;
+}
+
+.vignette {
+    position: absolute;
+    left: 150px;
+    top: -50px;
+}
